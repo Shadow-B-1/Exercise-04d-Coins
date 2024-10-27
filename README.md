@@ -1,17 +1,21 @@
-# Exercise-04d-Coins
+
+# Project 04-2D Platformer
+Context and date
+New Project, 10/26/2024
+
+Added a little more features
 
 ## Implementation
+- Added background music to level 1 and level 2
+- Added a cool cloud to level 1 and 2
+- Added more grounds on level 2
+- Added more enemies on level 1
+
 
 ## References
-
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
-
+- Free music from Unity store
+- Free background from unity store
 ## Future Development
-
+- Survival?
 ## Created by
 Bie Chai
